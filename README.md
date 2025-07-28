@@ -15,9 +15,8 @@
 - 🌱 I'm currently learning **Kotlin and Jetpack Compose** for native Android development
 - 🎓 I'm a second-year Computer Applications student at **IITM College of Engineering affiliated to Maharshi Dayanand University**
 - 💬 Ask me about **Flutter, Dart, and basic UI/UX design**
-- 📫 How to reach me: **[kanavsethi003@gmail.com](mailto:kanavsethi003@gmail.com)** 
-- 😄 Pronouns: **he/him**
-
+- 📫 How to reach me: **[kanavsethi003@gmail.com](mailto:kanavsethi003@gmail.com)**
+- 
 ---
 
 ### 🛠️ My Tech Stack
