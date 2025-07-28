@@ -11,8 +11,6 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 - 🔭 I'm currently working on sharpening my **Flutter** skills and building beautiful mobile apps
 - 🌱 I'm currently learning **Kotlin and Jetpack Compose** for native Android development
 - 🎓 I'm a second-year Computer Applications student at **IITM College of Engineering affiliated to Maharshi Dayanand University**
@@ -87,20 +85,24 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  <br><br>
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iam-kanav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="Kanav's GitHub Stats" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-kanav&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" alt="Kanav's Top Languages" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-kanav&theme=tokyonight&border_radius=10" alt="Kanav's GitHub Streak" />
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer"/>
-</div>
